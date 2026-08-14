@@ -1,0 +1,13 @@
+﻿# Web
+node_modules/
+dist/
+*.log
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+.DS_Store
+._*
+Thumbs.db
